@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "558713038204",
+    "project_id": "absensi43215",
+    "storage_bucket": "absensi43215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558713038204:android:4ba58d5c8e210256fdf0f9",
+        "android_client_info": {
+          "package_name": "com.eurokarsproject.absensi4321"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558713038204-0fac73m4rrpp2qinh4200q8k5832oio5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX43r42VJvPT9YIWUZBmC3L22W9WdjjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558713038204-0fac73m4rrpp2qinh4200q8k5832oio5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558713038204-842abdg78gunb6dma98snthn3207uge0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eurokarsproject.absensi4321.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558713038204:android:98f58ca5501f8503fdf0f9",
+        "android_client_info": {
+          "package_name": "com.eurokarsproject.absensi43215"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558713038204-0fac73m4rrpp2qinh4200q8k5832oio5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX43r42VJvPT9YIWUZBmC3L22W9WdjjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558713038204-0fac73m4rrpp2qinh4200q8k5832oio5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558713038204-842abdg78gunb6dma98snthn3207uge0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eurokarsproject.absensi4321.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
